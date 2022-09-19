@@ -61,7 +61,7 @@ Check the output of this command:
 If the directory exists, it may work fine. Otherwise, RGB will not work at all.
 
 ## Requirements
-Secure boot must be disabled.  
+__Secure boot must be disabled.__  
 Install linux headers using your distro package manager:
 Ubuntu (or other Debian baseds distros):  
 `sudo apt-get install linux-headers-$(uname -r) gcc make`
